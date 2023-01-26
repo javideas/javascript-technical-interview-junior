@@ -1,8 +1,7 @@
 # Javascript Technical Interview Junior Full Stack
 Exercise from <a href="https://leetcode.com/problems/two-sum/">Leetcode Two Sum</a><br>
-I included and commented 3 possible solutions.
-<iframe src="https://codepen.io/javideas/pen/zYLdwOQ" title="description"></iframe>
-
+I included and commented 3 possible solutions.<br>
+And you can see the code in action in <a href="https://codepen.io/javideas/pen/zYLdwOQ">Codepen.io</a>.
 ```
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
