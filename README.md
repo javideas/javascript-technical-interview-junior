@@ -1,4 +1,4 @@
-# javascript-technical-interview-junior
+# Javascript Technical Interview Junior Full Stack
 Exercise from <a href="https://leetcode.com/problems/two-sum/">Leetcode Two Sum</a>
 ```
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -33,3 +33,4 @@ Constraints:
 -109 <= target <= 109
 Only one valid answer exists.
 ```
+I set up "Unit cases in Jet" following the video <a href="https://www.youtube.com/watch?v=I27ZJU2_-Og">"I resolve TECHNICAL TEST for JUNE PROGRAMMING PROGRAMMER" by Carlos Azaustre</a>

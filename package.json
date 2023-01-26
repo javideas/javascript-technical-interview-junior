@@ -1,0 +1,24 @@
+{
+  "name": "javascript-technical-interview-junior",
+  "version": "1.0.0",
+  "description": "Exercise from <a href=\"https://leetcode.com/problems/two-sum/\">Leetcode Two Sum</a>\r ```\r Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javideas/javascript-technical-interview-junior.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javideas/javascript-technical-interview-junior/issues"
+  },
+  "homepage": "https://github.com/javideas/javascript-technical-interview-junior#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
