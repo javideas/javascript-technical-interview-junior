@@ -2,7 +2,7 @@
 My journey to become Junior Full Stack Developer
 
 
-# Git Notes:
+<h3>Git Notes:</h3>
 -Create a branch for the first chapter: <b>git branch #-name-of-exercise</b>.<br>
 -Switch to the new branch: <b>git checkout #-name-of-exercise.</b><br>
 
@@ -11,7 +11,7 @@ My journey to become Junior Full Stack Developer
 -Push the branch to a remote repository: <b>git push -u origin #-name-of-exercise</b><br>
 
 
-<h5>To remove a folder and all files in the folder recursively:</h5>
+<h3>To remove a folder and all files in the folder recursively:</h3>
 Tip by <a href="https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore">CB Bailey at Stackoverflow</a>
 ```
 git rm -r --cached
