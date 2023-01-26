@@ -1,6 +1,8 @@
 # Javascript Technical Interview Junior Full Stack
-My journey to become Junior Full Stack Developer.
-Following  <a href="https://www.youtube.com/watch?v=pblq-fj137A&list=PLY5pAT_51eGw--pxzA_bd9ZHLuqfI_97E">this selection of Leetcode exercises</a>
+My journey to become Junior Full Stack Developer.<br>
+Check the different branches of this repository to see the different exercises.<br>
+Made following  <a href="https://www.youtube.com/watch?v=pblq-fj137A&list=PLY5pAT_51eGw--pxzA_bd9ZHLuqfI_97E">this selection of Leetcode exercises</a>
+
 <h3>Git Notes:</h3>
 -Create a branch for the first chapter: <b>git branch #-name-of-exercise</b>.<br>
 -Switch to the new branch: <b>git checkout #-name-of-exercise.</b><br>
