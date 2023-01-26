@@ -11,7 +11,7 @@ My journey to become Junior Full Stack Developer
 -Push the branch to a remote repository: <b>git push -u origin #-name-of-exercise</b><br>
 
 
-# To remove a folder and all files in the folder recursively:
+<h5>To remove a folder and all files in the folder recursively:</h5>
 Tip by <a href="https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore">CB Bailey at Stackoverflow</a>
 ```
 git rm -r --cached
