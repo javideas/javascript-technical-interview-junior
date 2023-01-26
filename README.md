@@ -11,12 +11,14 @@ My journey to become Junior Full Stack Developer
 -Push the branch to a remote repository: <b>git push -u origin #-name-of-exercise</b><br>
 
 
-<h3>To remove a folder and all files in the folder recursively:</h3>
-Tip by <a href="https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore">CB Bailey at Stackoverflow</a>
+<h3>To remove a folder and all files in the folder recursively:</h3><br>
+
+Tip by <a href="https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore">CB Bailey at Stackoverflow</a><br>
+
 ```
 git rm -r --cached
 ```
-The removal of the file from the head revision will happen on the next commit.
+The removal of the file from the head revision will happen on the next commit.<br>
 
-WARNING: While this will not remove the physical file from your local machine,
+WARNING: While this will not remove the physical file from your local machine,<br>
 it will remove the files from other developers' machines on their next git pull.
