@@ -12,10 +12,11 @@ My journey to become Junior Full Stack Developer
 
 
 # To remove a folder and all files in the folder recursively:
-Tip by <a href="https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore">Mateen Ulhaq at Stackoverflow</a>
-git rm -r --cached <folder>
+Tip by <a href="https://stackoverflow.com/questions/1274057/how-do-i-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore">CB Bailey at Stackoverflow</a>
+```
+git rm -r --cached
 ```
 The removal of the file from the head revision will happen on the next commit.
 
-WARNING: While this will not remove the physical file from your local machine, it will remove the files from other developers' machines on their next git pull.
-```
+WARNING: While this will not remove the physical file from your local machine,
+it will remove the files from other developers' machines on their next git pull.
